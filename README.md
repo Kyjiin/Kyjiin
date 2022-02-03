@@ -14,9 +14,6 @@
    <a href="https://www.java.com/">
 <img alt="Baraa" src="https://devstickers.com/assets/img/pro/7kaq.png" width="40">
      </a>
-   <a href="https://laravel.com/">
-<img alt="Baraa" src="https://devstickers.com/assets/img/pro/nve0.png" width="40">
-     </a>
    <a href="https://www.android.com/">
 <img alt="Baraa" src="https://devstickers.com/assets/img/pro/zl8i.png" width="40">
      </a>

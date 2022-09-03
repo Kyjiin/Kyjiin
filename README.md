@@ -1,10 +1,10 @@
-<img alt="Night Coding" src="https://github.com/AVS1508/AVS1508/blob/master/assets/Hand%20Wave.gif?raw=true" width='40' align="left"/><h2>Hey there! I'm [Kykiin](#)</h2>
+<img alt="Night Coding" src="https://github.com/AVS1508/AVS1508/blob/master/assets/Hand%20Wave.gif?raw=true" width='40' align="left"/><h2>Hey there! I'm [Kyjiin] (Baraa)(#)</h2>
 
 ### 👨🏻‍💻 &nbsp;Who Me ?!
 
-[📌] I'm a Software Engineering Student in College of Computer Science and Engineering. \
-[💠] I'm in Love with Web Development and Mobile Programming. \
-[🚀] I'm interested in Cloud Development, Software Project Managment and Machine Learning.
+[📌] I'm a Senior Software Engineering, Graduated from Computer Science and Engineering College. \
+[💠] I'm a Fullstack Web Developer with experience more then 3 years. \
+[🚀] I'm a Senior Java Developer and, have experince in Server Managment and Adminstration .
 
  ---
 

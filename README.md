@@ -1,9 +1,9 @@
-<img alt="Night Coding" src="https://github.com/AVS1508/AVS1508/blob/master/assets/Hand%20Wave.gif?raw=true" width='40' align="left"/><h2>Hey there! I'm [Kyjiin](https://github.com/Kyjiin) (Baraa)</h2>
+<img alt="Night Coding" src="https://github.com/AVS1508/AVS1508/blob/master/assets/Hand%20Wave.gif?raw=true" width='40' align="left"/><h2>Hey there! I'm [Baraa](https://github.com/ThisBaraa) (Baraa)</h2>
 
 ### 👨🏻‍💻 &nbsp;Who Me ?!
 
 [📌] I'm a Senior Software Engineering, Graduated from Computer Science and Engineering College. \
-[💠] I'm a Fullstack Web Developer with experience more then 3 years. \
+[💠] I'm a Fullstack Software Developer with experience more then 5 years. \
 [🚀] I'm a Senior Java Developer and, have experince in Server Managment and Adminstration .
 
  ---
@@ -76,9 +76,9 @@
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
-<a href="https://github.com/Kyjiin">
+<a href="https://github.com/ThisBaraa">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Kyjiin&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Kyjiin&layout=compact&langs_count=8&theme=algolia"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ThisBaraa&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
 

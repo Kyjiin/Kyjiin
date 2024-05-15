@@ -3,7 +3,7 @@
 ### 👨🏻‍💻 &nbsp;Who Me ?!
 
 [📌] I'm a Senior Software Engineering, Graduated from Computer Science and Engineering College. \
-[💠] I'm a Fullstack Software Developer with experience more then 5 years. \
+[💠] I'm a Fullstack Software Developer with experience more then 12 years. \
 [🚀] I'm a Senior Java Developer and, have experince in Server Managment and Adminstration .
 
  ---
